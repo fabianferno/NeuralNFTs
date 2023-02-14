@@ -1,5 +1,6 @@
 # NeuralNFTMarketplace
 This project is a submission for **HackFS 2022**.
+https://ethglobal.com/showcase/neuralnfts-yxcg0
 ***
 NeuralNFTMarketplace is live on polygon mainnet: https://polygonscan.com/address/0xAC397838bbdc501e3637165c396f4EfA3E958229
 
